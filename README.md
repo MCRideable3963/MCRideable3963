@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋
+Projects?
+LWJGL TeaVM Port FileSystem port
+WorkerQueue (Functions, no state share)
 
-<!--
-**MCRideable3963/MCRideable3963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Competitions
 
-Here are some ideas to get you started:
+* Google Chrome VRP (Won about 1k)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Organizations:
+
+IsolatedAnarchy
+
+* FWMium: A group of security researchers who are interested in protecting Google Chrome's security by discovering vulnerabilities and reporting them to be fixed.
