@@ -5,7 +5,7 @@ FileSystem port
 WorkerQueue (Functions, no state share)  
 
 Competitions
-- Google Chrome VRP (Won about 1k)
+None (😭😭😭)
 
 Organizations  
 IsolatedAnarchy  
